@@ -6,7 +6,7 @@ this is ICS cource group CODE BRIGADE
   <b>MEMS</b><br>
     cyber coder 1) JOEL PARADESI(B23ME1043) <br>
     cyber coder 2) SARTHAK SANJAY GUPTA(B23BB1039)<br>
-    cyber coder 3) UDAY SHAW(B23CH1045)<br>
+    cyber coder 3) Uday Shaw(B23CH1045)<br>
     cyber coder 4) APADESH KUMAR(B23BB1010)<br>
 
 <br><b>NOW how do you operate the code?</b><br>
